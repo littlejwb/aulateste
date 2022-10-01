@@ -3,7 +3,7 @@
 - Salvando primeira versão de um projeto no GitHub.
 - Salvando um novo commit.
 
-Curso: Java Completo - Programação Orientada à Objetos.
+Curso: Java Completo - Programação Orientada a Objetos.
 
 Professor: Nélio Alves.
 
